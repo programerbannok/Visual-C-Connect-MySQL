@@ -1,0 +1,11 @@
+c:\users\com01\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.exe.config
+c:\users\com01\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.exe
+c:\users\com01\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.pdb
+c:\users\com01\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\MySql.Data.dll
+c:\users\com01\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\MySql.Data.xml
+c:\users\com01\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+c:\users\com01\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+c:\users\com01\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+c:\users\com01\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+c:\users\com01\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.exe
+c:\users\com01\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.pdb
